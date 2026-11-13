@@ -1,4 +1,4 @@
-# katto-tech
+# Katto
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,119 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-katto-tech is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://katto.tech/
+Katto provides an AI-powered video clipping service that transforms long-form video content into short, vertical, captioned clips optimized for social media platforms. Users can paste a video link and receive automatically generated highlights, complete with captions and branding, without needing to edit manually. The platform supports various content types such as podcasts, sports, gaming, and interviews, offering a flat pricing model and a free tier for up to 30 minutes of video. Katto emphasizes ease of use, rapid processing, and integration with multiple export destinations, positioning itself as a tool for creators to quickly produce viral short-form videos.
+
+**Areas:** AI · Video · Clip · SocialMedia · SaaS
+
+## Katto on APIs.io
+
+Everything profiled for Katto is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/katto-tech/](https://apis.io/providers/katto-tech/)** — or go straight to one of the APIs or properties below.
+
+### APIs (8)
+
+- [Katto Brand Kit API](https://apis.io/apis/katto-tech/katto-tech-brand-kit-api/) — The Brand Kit API from Katto — 1 operation(s) for brand kit.
+- [Katto Connections API](https://apis.io/apis/katto-tech/katto-tech-connections-api/) — The Connections API from Katto — 1 operation(s) for connections.
+- [Katto Jobs API](https://apis.io/apis/katto-tech/katto-tech-jobs-api/) — The Jobs API from Katto — 14 operation(s) for jobs.
+- [Katto Me API](https://apis.io/apis/katto-tech/katto-tech-me-api/) — The Me API from Katto — 1 operation(s) for me.
+- [Katto Scheduled Posts API](https://apis.io/apis/katto-tech/katto-tech-scheduled-posts-api/) — The Scheduled Posts API from Katto — 2 operation(s) for scheduled posts.
+- [Katto Uploads API](https://apis.io/apis/katto-tech/katto-tech-uploads-api/) — The Uploads API from Katto — 2 operation(s) for uploads.
+- [Katto Usage API](https://apis.io/apis/katto-tech/katto-tech-usage-api/) — The Usage API from Katto — 1 operation(s) for usage.
+- [Katto Webhook API](https://apis.io/apis/katto-tech/katto-tech-webhook-api/) — The Webhook API from Katto — 1 operation(s) for webhook.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Katto Agentic Access](https://apis.io/agentic-access/katto-tech/katto-tech-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Katto API Rules](https://apis.io/rules/katto-tech/katto-tech-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Katto Authentication](https://apis.io/security/katto-tech/katto-tech-authentication/)
+- [Katto Domain Security](https://apis.io/security/katto-tech/katto-tech-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Katto Plans Pricing](https://apis.io/plans/katto-tech/katto-tech-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://katto.tech/)
+- [API reference](https://katto.tech/docs/api)
+- [Pricing](https://katto.tech/pricing)
+- [Sign up](https://katto.tech/signup)
+- [Changelog](https://katto.tech/changelog)
+- [Blog](https://katto.tech/blog)
+- [Terms of service](https://katto.tech/terms)
+- [Privacy policy](https://katto.tech/privacy)
+
+## API Evangelist rating
+
+**Kin Score 52.2** — developing · rubric 0.27.0 · scored 2026-11-13
+
+| Facet | Score |
+|---|---|
+| Discoverability | 64.3 |
+| Contract quality | 49.7 |
+| Contract governance | 65.5 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 35.0 |
+| Access clarity | 73.2 |
+
+**Agent readiness 41.8** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/katto-tech/](https://apis.io/providers/katto-tech/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Katto: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/katto-tech/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
